@@ -1193,4 +1193,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Charlie Tobler's Solution](https://github.com/cstobler/etch-a-sketch) - [View in Browser](https://cstobler.github.io/etch-a-sketch/)
 * [Pikkuruusu's Solution](https://github.com/pikkuruusu/etch-a-sketch) - [View in Browser](https://pikkuruusu.github.io/etch-a-sketch/)
 * [Wulfen's Solution](https://github.com/wulfenn/etch-a-sketch) - [View in Browser](https://wulfenn.github.io/etch-a-sketch/)
+[Portable's Solution](https://github.com/portableDD/Etch-a-Sketch-Exercises)
 </details>
